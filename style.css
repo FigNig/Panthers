@@ -1,0 +1,41 @@
+* {}
+
+.jumbotron {
+    background: #1B3FD0;
+    background: #525252;
+    font-family: 'Noto Sans', sans-serif;
+    color: #FFFFFF;
+
+}
+
+.Welcome,
+.Skateland,
+    {
+    color: #FFFFFF;
+}
+
+.p {
+    colour: white;
+}
+
+img {
+    width: 500px;
+    object-fit: contain;
+}
+
+img {
+    width: 500px;
+    max-height: 100vh;
+    margin: auto;
+}
+
+
+.team_list {
+    color: #FFFFFF;
+    border-radius: 25px;
+    background: #494949;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+
+}
